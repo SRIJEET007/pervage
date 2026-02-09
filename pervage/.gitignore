@@ -3,7 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+/images
 ### STS ###
 .apt_generated
 .classpath
@@ -59,7 +59,6 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 pervage.db
-images/
 uploads/
 logs/
 
